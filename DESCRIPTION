@@ -1,0 +1,14 @@
+Package: beast2.phylogeo.parser
+Title: Beast2 xml parser for phytogeographic analysis
+Version: 0.1
+Authors@R: 
+    person(given = "Lorenz",
+           family = "Wolf",
+           role = c("aut", "cre"),
+           email = "lorenz.l.wolf@gmail.com",
+           comment = c(ORCID = ""))
+Description: To parse xml for phytogeographic analysis in beast2
+License: R 3.5.0 GUI 1.70 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.99.9001
